@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-image: url(https://previews.123rf.com/images/neue86/neue861608/neue86160800157/60847753-modelo-incons%C3%BAtil-de-la-pizzer%C3%ADa-impresi%C3%B3n-de-color-sobre-fondo-blanco.jpg);
+
+  font-family:  'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
